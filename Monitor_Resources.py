@@ -4,6 +4,7 @@ import GPUtil
 from threading import Thread
 from statistics import mean
 
+
 def monitor_resources(interval=5, max_samples=100):  # Added max_samples here
 
     cpu_frequencies = []
