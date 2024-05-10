@@ -4,7 +4,7 @@ import GPUtil
 from threading import Thread
 from statistics import mean
 
-
+#testforgit
 def monitor_resources(interval=5, max_samples=100):  # Added max_samples here
 
     cpu_frequencies = []
